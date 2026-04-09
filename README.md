@@ -3,6 +3,8 @@
 
 AI-powered weekly labor cost auditor for QSR operators: tracks labor as a percentage of revenue, catches clock padding and scheduling drift, and flags mid-week risks before payroll closes.
 
+**v2 update:** now uses contextual windows like catering, promotions, events, and weather before recommending labor cuts, with manager override and a full audit trail.
+
 ---
 
 ## Overview
