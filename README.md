@@ -148,5 +148,18 @@ Builder of practical AI systems for restaurant operations, labor control, and ex
 
 ## Version
 
+**v3.1.2**
+Publisher-note release; operational behavior and license unchanged.
+
 **v2.0.0**  
 Adds contextual audit support, manager override logging, and weather-aware labor review.
+
+---
+
+## McPherson Governance V6 shadow beta
+
+McPherson AI is preparing an invite-only V6 shadow beta of McPherson Governance, with Observa reporting for reviewable evidence of supported agent activity. Shadow mode evaluates and records without activating enforcement.
+
+[Request beta consideration](https://mcphersonai.com/contact?utm_source=github&utm_medium=skill-readme&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-labor-leak-auditor#governance-setup)
+
+_This publisher note does not change this skill's behavior, data handling, or license._
